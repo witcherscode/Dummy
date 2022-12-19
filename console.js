@@ -53,3 +53,5 @@ console.log(string_reverse("www"));
 console.log(string_reverse("JavaScript"));
 
 
+// JavaScript Program to Find the Square Root
+
